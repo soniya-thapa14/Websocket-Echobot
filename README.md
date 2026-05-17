@@ -27,7 +27,7 @@ Built with FastAPI and runs on port 8000. Accepts incoming WebSocket connections
 ## Project Structure
 
 ```
-websocket-audio-streaming/
+WEBSOCKET_ECHOBOT/
 │
 ├── simulate.py              
 ├── main.py    -Server 
